@@ -894,6 +894,7 @@ T32	(s)cut=escort/scout  𓌬  marSchier  𓆷𓄿𓊃𓂻  mesziah@AR   𓈝�
 T34 𓌰!⚫NG@AR/EN! INK messING n-k=sleep𓇰@AR/EN!   <>⚫KM/HM Himmel khem Kiemen qpneu@greek:𓏏𓊪𓂋 
 T34 𓌰! #NM[k]/mn/unk-MESS!  n-m=sleep@AR نوم noum  IMN/ 𓈖𓌰𓅓 nmessing Himmel:Luft:noon hama:dark 
 T34 𓌰 knive𓐍𓈖𓌰/𓌰𓅓𓋴 Messer / Machete
+T34 𓌰 dart>dirk>dolch? -der/-tar dark 
 T35	𓌱 knarzen genesen 𓐍𓈖𓌰𓅓𓂉 ! 𓂊
 
 U Utensil util
